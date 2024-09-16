@@ -1,0 +1,40 @@
+@media (max-width: 545px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .container__caixa {
+    margin: 20px;
+  }
+
+  .container__imagem {
+    width: 90%;
+  }
+
+  .dispositivos__lista li img {
+    width: 100%;
+  }
+
+  .rodape {
+    margin: 20px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .principal {
+    grid-template-columns: 100%;
+  }
+
+  .descricao__titulo,
+  .dispositivos__titulo {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1440px) {
+  .dispositivos__titulo {
+    padding: 40px;
+  }
+}
