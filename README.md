@@ -1,10 +1,14 @@
-# aluraplus
 
-Alura Plus é um projeto desenvolvido como parte do curso da Alura, focado em aprimorar habilidades de front-end. O objetivo foi criar uma plataforma digital fictícia de assinatura de conteúdos educacionais, com uma interface amigável e responsiva, utilizando HTML, CSS e JavaScript. O projeto inclui:
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
 
-<li>Design moderno e intuitivo</li>
-<li>Navegação simples e eficiente</li>
-<li>Seções para planos de assinatura e cursos disponíveis</li>
-<li>Funcionalidades interativas com JavaScript para aprimorar a experiência do usuário</li>
+<hr>
 
-Esse projeto é voltado para oferecer uma experiência otimizada em diversas resoluções de tela, aplicando conceitos de design responsivo e boas práticas de desenvolvimento web.
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
+<p align="center">Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
+
+## Tecnologias
+* HTML
+* CSS
+
+## Screenshots
+![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
